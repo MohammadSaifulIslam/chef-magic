@@ -1,10 +1,10 @@
 # chef's magic
 
-This project is my assignment-10 project. Main repo link (private repo) is -> <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-MohammadSaifulIslam" target="_blank">Chef's Magic</a>
+This project is my assignment-10 project. Main repo link is -> <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-MohammadSaifulIslam" target="_blank">(private repo)</a>
 
 ### Live preview -> <a href="https://chef-magic.web.app/">Chef's Magic</a>
 
-### Chef's Magic server side -> <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-MohammadSaifulIslam">Click to go</a>
+### Chef's Magic server side -> <a href="https://github.com/MohammadSaifulIslam/chef-magic-server">Click to go</a>
 
 ### Language and Tools:
 
@@ -15,6 +15,7 @@ This project is my assignment-10 project. Main repo link (private repo) is -> <a
 - Javascript
 - React js
 - Express js
+- Firebase
 - Localstorage
 - ChatGPT
 

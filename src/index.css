@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-container{
+  @apply px-5 md:px-10 max-w-7xl mx-auto
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p,span, nav{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.my-btn{
+  @apply text-white px-8 py-2 font-semibold uppercase bg-[#82B440] rounded-md duration-500 hover:bg-[#629421]
+}
+.btn-outline{
+  @apply text-[#82B440] px-8 py-2 font-semibold uppercase rounded-md border border-[#82B440] duration-500 hover:bg-[#82B440] hover:text-white
+}
+
+.link-btn{
+  @apply cursor-pointer underline text-[#82B440] duration-300 hover:text-green-800
+}

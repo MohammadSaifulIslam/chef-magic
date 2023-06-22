@@ -1,6 +1,5 @@
 # chef's magic
 
-This project is my assignment-10 project. Main repo link is -> <a href="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-MohammadSaifulIslam" target="_blank">(private repo)</a>
 
 ### Live preview -> <a href="https://chef-magic.web.app/">Chef's Magic</a>
 
